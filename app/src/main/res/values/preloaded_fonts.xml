@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/arapey</item>
+        <item>@font/arbutus</item>
+        <item>@font/arima_madurai_thin</item>
+        <item>@font/artifika</item>
+        <item>@font/berkshire_swash</item>
+    </array>
+</resources>
